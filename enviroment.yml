@@ -1,0 +1,11 @@
+dependencies:
+  -python=3
+  -pip:
+    -scipy
+    -matplotlab
+    -numpy
+    -scikit-learn
+    -tqdm
+    -sklearn
+    -pandas
+    -torch
